@@ -1,0 +1,2 @@
+rootProject.name='sqlconnect_test'
+include ':app'
